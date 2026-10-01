@@ -1,0 +1,23 @@
+TravelLog - Sample
+
+================================
+        Welcome to TravelLog
+================================
+
+1. Add Trip
+2. View Trips
+3. Search Destination
+4. Delete Trip
+5. Exit
+Choose an option: 1
+
+--- Add Trip ---
+Destination: New York
+Travel date: 2026-10-15
+Notes: Weekend trip
+Trip added successfully!
+
+Choose an option: 2
+
+--- My Trips ---
+Trip #1 | Destination: New York | Date: 2026-10-15 | Notes: Weekend trip
